@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Arman AXL</h1>
+<h1 data-importer="text" align="center">Arman AXL</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<p data-importer="text" align="left">- average  student<br>- 💻 Into development<br>- 🌍 Languages: Bangla, English, Hindi, Urdu, German<br>- 🐸 Excited to keep growing, one small step at a time<br>- 🤝 Always open to learning from others and working together<br><br>Currently studying in AIUB<br>https://www.aiub.edu/</p>
+<h4 data-importer="text" align="left">- average  student<br>- 💻 Into development<br>- 🌍 Languages: Bangla, English, Hindi, Urdu, German<br>- 🐸 Excited to keep growing, one small step at a time<br>- 🤝 Always open to learning from others and working together<br><br>Currently studying in AIUB<br>https://www.aiub.edu/</h4>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h1 data-importer="text" align="left">I code with</h1>
 
 ###
 
@@ -69,7 +69,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2s1NHJjcnpseDF1MXJwdm5oNWF3MDRvaXZxM2hweXNjdGtkb2k3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/anYe0SsJQBVwHpcmBY/giphy.gif"  />
+  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2s1NHJjcnpseDF1MXJwdm5oNWF3MDRvaXZxM2hweXNjdGtkb2k3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/anYe0SsJQBVwHpcmBY/giphy.gif"  />
 </div>
 
 ###
